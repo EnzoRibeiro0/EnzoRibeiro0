@@ -21,6 +21,7 @@ Sou apaixonado por tecnologia e por transformar ideias em soluções reais. Busc
 
 ### 📌 Projetos em destaque
 
+#### 🕙 [**API de Ponto Eletrônico**](https://github.com/EnzoRibeiro0/api-ponto-eletronico) – Uma API para gerenciamento de ponto eletrônico
 #### 🔗 [**Encurte-Me**](https://github.com/EnzoRibeiro0/encurte-me) – Um encurtador de links com Java Spring Boot e banco de dados relacional.
 ####  ₿  [**CryptoCap**](https://github.com/EnzoRibeiro0/CryptoCap) - Um App Mobile em React Native para acompanhar cotações de criptomoedas em tempo real.
 
