@@ -12,16 +12,14 @@ Sou apaixonado por tecnologia e por transformar ideias em soluções reais. Busc
 
 ### 🚀 Tecnologias que uso no dia a dia
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode&perline=10)](https://skillicons.dev)
+
 
 ---
 
 ### 📌 Projetos em destaque
 
-#### 🕙 [**API de Ponto Eletrônico**](https://github.com/EnzoRibeiro0/api-ponto-eletronico) – Uma API para gerenciamento de ponto eletrônico
+#### 🕙 [**API de Ponto Eletrônico**](https://github.com/EnzoRibeiro0/api-ponto-eletronico) – Uma API desenvolvida com Java Spring Boot para gerenciamento de ponto eletrônico
 #### 🔗 [**Encurte-Me**](https://github.com/EnzoRibeiro0/encurte-me) – Um encurtador de links com Java Spring Boot e banco de dados relacional.
 ####  ₿  [**CryptoCap**](https://github.com/EnzoRibeiro0/CryptoCap) - Um App Mobile em React Native para acompanhar cotações de criptomoedas em tempo real.
 
@@ -29,15 +27,15 @@ Sou apaixonado por tecnologia e por transformar ideias em soluções reais. Busc
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-da-silva-117887255)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-ribeiro-da-silva-117887255)
 
 ---
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=EnzoRibeiro0&show_icons=true&title_color=ffffff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515" />
+       src="https://github-readme-stats.vercel.app/api?username=EnzoRibeiro0&show_icons=true&title_color=fff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoRibeiro0&layout=donut&title_color=ffffff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoRibeiro0&layout=donut&title_color=fff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515" />
 </div>
 
 <picture>
