@@ -33,9 +33,9 @@ Sou apaixonado por tecnologia e por transformar ideias em soluções reais. Busc
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=EnzoRibeiro0&show_icons=true&title_color=fff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515" />
+       src="https://github-readme-stats.vercel.app/api?username=EnzoRibeiro0&show_icons=true&title_color=fff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515&cache_seconds=21600" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoRibeiro0&layout=donut&title_color=fff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoRibeiro0&layout=donut&title_color=fff&icon_color=810CA8&text_color=9f9f9f&bg_color=151515&cache_seconds=21600" />
 </div>
 
 <picture>
